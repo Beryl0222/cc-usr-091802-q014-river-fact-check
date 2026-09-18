@@ -1,0 +1,13 @@
+{
+  "service": "river-fact-check",
+  "context": {
+    "river": "黄河",
+    "evidence_types": [
+      "oral",
+      "image",
+      "archive",
+      "hydrology"
+    ],
+    "location_precision": "county"
+  }
+}
